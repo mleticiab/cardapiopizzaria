@@ -28,7 +28,7 @@ Este projeto foi criado como parte dos meus estudos em desenvolvimento web. A pr
 Abra o arquivo `index.html` em qualquer navegador para visualizar o cardápio.
 
 Você também pode acessar uma prévia online:
-[Visualizar Projeto] https://mleticiab.github.io/cardapiopizzaria/
+https://mleticiab.github.io/cardapiopizzaria/
 
 ---
 
